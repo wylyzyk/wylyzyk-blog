@@ -1,4 +1,3 @@
-<a href="wylyzyk.github.io">wylyzyk.github.io</a>
 
 模板来自<a style="text-decoration:none" href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby</a>.
 
