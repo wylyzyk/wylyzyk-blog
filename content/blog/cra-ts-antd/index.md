@@ -9,10 +9,10 @@ description: 一直没有将Typescript正式的运用到项目中，而且现在
 ## 初始化项目
 
 开发环境:
-> node: v14.15.0
-> yarn: 1.22.10
-> npx: 7.8.0
-> editor: visual studio code
+> node: v14.15.0<br>
+> yarn: 1.22.10<br>
+> npx: 7.8.0<br>
+> editor: visual studio code<br>
 
 使用`cra`进行项目初始化
 ```shell
