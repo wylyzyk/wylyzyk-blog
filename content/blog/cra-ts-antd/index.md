@@ -1,6 +1,6 @@
 ---
 title: Using React+Typescript+Antd To Build
-date: "2021-04-29T17:11:57 GMT+0800"
+date: "2021-04-29T17:11:57.284Z"
 description: 一直没有将Typescript正式的运用到项目中，而且现在React以及Antd对Typescript的支持都很完善，所以这次搭建一个支持Typescript的基础项目环境。
 ---
 
